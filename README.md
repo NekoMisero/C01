@@ -1,7 +1,8 @@
-# Title: Equity and Accessibility in Global Healthcare: A Data Analysis Project
+# Title: Equity and Accessibility in Global Healthcare: A Data Analysis Project 
+This Project will be separated into Outcome 1, 2 and 3 (Outcome 2 and 3, WIP)
 
 Outcome 1 : Collect data safely and securely
-(a) Identify the data required, and appropriate sources, for the chosen approach
+Identify the data required, and appropriate sources, for the chosen approach
 
 DEFINE THE PROJECT OBJECTIVES :
 To clearly define the objectives of the healthcare analysis. It’s important to understand what questions we aim to answer or what insights we want to gain. This will guide us in identifying the specific data requirements.
